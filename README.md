@@ -15,7 +15,7 @@ Sonoyuncu Casus Kordinat bulma ve tag botu.
 - asyncio
 - discord
 - time
-- 
+
 **Python**
 - Version: Python 3.11.4
 
