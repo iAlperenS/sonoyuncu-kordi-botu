@@ -1,4 +1,4 @@
-# sonoyuncu-kordi-botu
+## sonoyuncu-kordi-botu
 Sonoyuncu Casus Kordinat bulma ve tag botu.
 
 ### Komutlar/Commands
@@ -15,7 +15,9 @@ Sonoyuncu Casus Kordinat bulma ve tag botu.
 - asyncio
 - discord
 - time
+- 
 **Python**
 - Version: Python 3.11.4
+
 **Tested in**
 - Windows8/10/11
