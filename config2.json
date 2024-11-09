@@ -1,0 +1,9 @@
+{  
+   "Ajax": {
+    "token": "BOT_TOKEN",
+    "role_id": "rol_id",
+    "prefix": "-",
+    "uzaklik": "8000",
+    "kanal": "gönderilecek_kanal"
+   }
+}
