@@ -1,12 +1,12 @@
 # sonoyuncu-kordi-botu
 Sonoyuncu Casus Kordinat bulma ve tag botu.
 
-## Komutlar/Commands
+### Komutlar/Commands
 - yardım
 - bilgi
 - kordibul
 
-## Requirements
+### Requirements
 **Libraries**
 - json
 - math
